@@ -203,7 +203,8 @@ export default Footer;
 
 ## OUTPUT
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9acda14b-90d4-4d01-bed0-6243e0ecf7d6" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4fb90f8f-8648-4de6-8a36-7b353cab68b2" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bae50dbb-60f6-45bc-b26d-16bc65b726b5" />
+
 
 
 ## RESULT
